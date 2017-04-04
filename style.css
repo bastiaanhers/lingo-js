@@ -1,0 +1,22 @@
+article{
+	position: flex;
+	width: 400px;
+
+}
+/*input{
+	margin: 5px;
+	font-size: 40px;
+	height: 60px;
+	width: 60px;
+}*/
+.raster{
+	margin: 2px;
+	font-size: 40px;
+	height: 60px;
+	width: 40px;
+	padding-left: 20px;
+}
+#aap{
+	margin-left: 300px;
+	margin-top: 100px; 
+}

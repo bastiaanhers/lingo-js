@@ -1,0 +1,24 @@
+(get) Index (*)
+(get>post) Create
+(get) Read (id)
+(get>post) Update (id)
+(get) Delete(id)
+
+hypertext transfer protocal(http) = de taal waarmee een browser met een server praat
+
+HTTP
+ .get = aanvraag voor een pagina
+ .post = aanvraag met meegeleverde info achter de schermen
+
+<?php
+	
+$_GET[];'
+
+$bla[0] = true; //numeric array
+$yada["uhm"] = true; //assoc array
+
+var_dump($_GET); 
+
+$_POST[];
+
+?>
